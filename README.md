@@ -1,2 +1,2 @@
 # frontend-mentor
-A repository for all my Frontend Mentor projects
+Frontend Mentor project: QR-code widget
